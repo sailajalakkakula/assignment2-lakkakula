@@ -8,14 +8,7 @@ Before to come to here i do have a work experience around 4+ in IT Industry as Q
 
 Tables                   
 ---------------------
-
-|S.NO| Country    | Paragraph            |
-|----|---------   |--------------------  |
-| 1. |Paris       |Paris, France's capital and a global center for gastronomy and culture|
-| 2. |Switzerland |Switzerland is a Central European country|
-| 3. |Florida     |Florida is part Gulf of Mexico and|
-| 4. |NewJersey   |NewJersey historic Immigration Museum and famous for iconic Statue of Liberty|
-
+This table consis of the information about the place which going to stay for few days to relax and enjoy the place like shopping and visiting famouse spots and all
 
 |S.NO| Country    | Why you recommend it |how many days you would spend there|
 |----|---------   |--------------------  |--------------------------------------------------------------------|
