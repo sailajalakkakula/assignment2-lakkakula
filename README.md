@@ -28,7 +28,7 @@ Pithy Quotes
 
 Code Fencing                   
 ---------------------
-How compile SCSS faster
+> How compile SCSS faster
 
 code link : https://stackoverflow.com/questions/75286888/how-compile-scss-faster
 ```
